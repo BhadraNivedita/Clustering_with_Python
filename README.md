@@ -46,3 +46,5 @@
 - Provides a probabilistic clustering.
 - Requires the number of clusters `k` to be specified.
 
+[Example Jupyter notebook]()
+
