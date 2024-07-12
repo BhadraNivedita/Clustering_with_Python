@@ -46,5 +46,5 @@
 - Provides a probabilistic clustering.
 - Requires the number of clusters `k` to be specified.
 
-[Example Jupyter notebook]()
+[Example Jupyter notebook](https://github.com/BhadraNivedita/Clustering_with_Python/blob/main/Clustering%20on%20synthetic%20dataset.ipynb)
 
